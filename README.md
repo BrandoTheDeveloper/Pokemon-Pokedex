@@ -4,7 +4,7 @@ Certainly! Below is an updated version of the README file for your **JavaScript 
 
 # Pokémon Pokédex
 
-![Pokémon Logo](https://example.com/path/to/pokemon-logo.png)
+![Pokémon Logo](pokemon-logo.png)
 
 Welcome to the **Pokémon Pokédex project**! This repository contains an application that allows users to explore information about various Pokémon species. Whether you're a seasoned Pokémon Trainer or a curious newcomer, this Pokédex will provide you with essential details about your favorite Pokémon.
 
