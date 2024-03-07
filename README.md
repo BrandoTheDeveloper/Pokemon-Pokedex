@@ -1,7 +1,3 @@
-Certainly! Below is an updated version of the README file for your **JavaScript Pokémon Pokédex project** without the Git and React commands:
-
----
-
 # Pokémon Pokédex
 
 ![Pokémon Logo](pokemon-logo.png)
